@@ -1,2 +1,3 @@
 # demo_git
-demo de git
+
+Mon exercide pour apprendre à utiliser git
