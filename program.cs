@@ -20,6 +20,7 @@ namespace KM_Service_MergeDocs
                 new Service1()
             };
             ServiceBase.Run(ServicesToRun);
+            Console.Writeline("hello world");
         }
     }
 }
